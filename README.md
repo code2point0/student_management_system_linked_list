@@ -1,4 +1,4 @@
-# student_management_system_linked_list
+# Student Management System Linked List
 This C++ project is an implementation of a simple student record management system using a linked list data structure. The program allows users to perform various operations on a list of student records, such as inserting new records, searching for records, counting the number of records, updating existing records, deleting records, and displaying all records.
 
 Here's a breakdown of the key components and functionalities:
